@@ -28,7 +28,7 @@ let calcularCarneParaCriancas = (qtdCriancas) => calcularCarneEmGramas(qtdCrianc
 
 
 let calcularCervejaEmMililitros = (numeroDeAdultos) =>
-    maisDeSeisHoras(duracao) ? numeroDeAdultos * 2000 : numeroDeAdultos * 1200;
+    maisDeSeisHoras(duracao) ? numeroDeAdultos * 3000 : numeroDeAdultos * 1800;
 
 
 let calcularRefriEmMililitros = (numeroDePessoas) =>
